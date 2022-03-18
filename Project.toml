@@ -1,0 +1,7 @@
+name = "Privacy"
+uuid = "65ab2a87-7440-4147-b970-3dc8a1ade0eb"
+authors = ["Steven Young <youngsr@ornl.gov>", "Vandy Tombs <tombsvj@ornl.gov>", "Don March <marchdd@ornl.gov>"]
+version = "0.1.0"
+
+[deps]
+DPSGD = "4234c52e-8100-4493-bc9f-2e76d307b360"
